@@ -1,0 +1,66 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+
+# Memory captures
+[Mm]emoryCaptures/
+
+# Asset meta data that should not be committed
+AssetStoreTools/
+
+# Auto-generated IDE files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash reports and logs
+sysinfo.txt
+*.log
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+
+# Gradle
+.gradle/
+
+# Addressables
+/[Aa]ssets/[Aa]ddressableAssetsData/*/*.bin*
+
+# StreamingAssets auto-generated (if any)
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/
+
+# IL2CPP
+/il2cppOutput/
+
+# Package manager
+/Packages/packages-lock.json
+
+# Rider
+*.DotSettings.user
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
